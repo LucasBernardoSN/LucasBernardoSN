@@ -10,6 +10,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucasBernardoSN&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=FFFFFF"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBernardoSN&layout=compact&langs_count=7&theme=dark"/>
 </div>
+[![wakatime](https://wakatime.com/badge/user/ad6308bd-78cc-47d5-9fd6-c88271dc0fd4.svg)](https://wakatime.com/@ad6308bd-78cc-47d5-9fd6-c88271dc0fd4)
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
